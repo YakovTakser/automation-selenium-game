@@ -1,0 +1,13 @@
+1.Install chrome version 87 and download a chrome driver with version 87
+
+2.Install pycharm
+
+4.Download the project from https://github.com/YakovTakser/automation-selenium-game
+
+5.In the project directory "automation game\chromeDriver" make sure the driver exists and if not then copy the driver to that directory.
+
+6.Make shure the virtual env is working, if not the open it with the following command "venv\\Scripts\\activate.bat"
+
+3.Open pycharm -> the working project "automation game" in terminal window: write "pip install -r requirements.txt" and press Enter
+
+4.In terminal window write the following command and run it "pytest > results.txt"

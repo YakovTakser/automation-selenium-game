@@ -1,0 +1,8 @@
+============================= test session starts =============================
+platform win32 -- Python 3.8.1, pytest-6.2.1, py-1.10.0, pluggy-0.13.1
+rootdir: C:\Users\Yakov Takser\Desktop\fabriik test
+collected 1 item
+
+test_automation.py .                                                     [100%]
+
+======================== 1 passed in 117.22s (0:01:57) ========================
